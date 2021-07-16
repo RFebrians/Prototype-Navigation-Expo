@@ -1,0 +1,6 @@
+export { default as StartScreen } from './StartScreen'
+export { default as Dashboard } from './Dashboard'
+export { default as Home } from './Home'
+export { default as About } from './About'
+export { default as DrawerFirstPage } from './DrawerFirstPage'
+export { default as DrawerSecondPage } from './DrawerSecondPage'
